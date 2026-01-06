@@ -35,6 +35,7 @@ scripts/
 !tsconfig.json
 !svelte.config.js
 !vite.config.ts
+!static/**/*.json
 
 # Large files
 *.so
