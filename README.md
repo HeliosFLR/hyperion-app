@@ -2,6 +2,8 @@
 
 **Liquidation-free leverage on Solana.**
 
+🌐 [hyperionfi.xyz](https://hyperionfi.xyz) | 🐦 [Twitter](https://x.com/hyperionsol_) | 💬 [Telegram](https://t.me/hyperionfi)
+
 Lock your staked SOL (mSOL, JitoSOL), get hyTokens, and access leverage without ever worrying about getting liquidated. It's DeFi the way it should be.
 
 ## What is this?
