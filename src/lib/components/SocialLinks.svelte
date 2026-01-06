@@ -12,7 +12,7 @@
 	<a href="https://t.me/hyperionfinance" target="_blank">
 		<img src={telegramLogo} alt="telegram" class="h-4 w-4 sm:h-5 sm:w-5" />
 	</a>
-	<a href="https://github.com/hyperionfinance" target="_blank">
+	<a href="https://github.com/HeliosFLR/hyperion-app" target="_blank">
 		<img src={githubLogo} alt="github" class="h-4 w-4 sm:h-5 sm:w-5" />
 	</a>
 	<a href="https://dune.com/hyperionfinance" target="_blank">
