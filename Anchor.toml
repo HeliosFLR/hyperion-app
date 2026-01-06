@@ -1,0 +1,25 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+hyperion = "BeitYPurfqE4eYS2wYcHts78Vzc2gMQVXhadQQ7DxJ5r"
+
+[programs.devnet]
+hyperion = "BeitYPurfqE4eYS2wYcHts78Vzc2gMQVXhadQQ7DxJ5r"
+
+[programs.mainnet]
+hyperion = "BeitYPurfqE4eYS2wYcHts78Vzc2gMQVXhadQQ7DxJ5r"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "mainnet"
+wallet = "./deploy-authority.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+
+[toolchain]
+anchor_version = "0.32.1"

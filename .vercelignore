@@ -1,0 +1,41 @@
+# Build artifacts
+target/
+.anchor/
+programs/
+
+# Node modules (Vercel installs these)
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# Test files
+tests/
+*.test.ts
+
+# Local env
+.env.local
+.env*.local
+
+# Rust
+Cargo.lock
+*.rs
+
+# Git
+.git/
+
+# Scripts
+scripts/
+
+# Wallets (sensitive)
+.wallets.json
+*.json
+!package.json
+!tsconfig.json
+!svelte.config.js
+!vite.config.ts
+
+# Large files
+*.so
+*.wasm

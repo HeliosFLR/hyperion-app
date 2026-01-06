@@ -1,0 +1,26 @@
+{
+  "name": "Hyperion",
+  "symbol": "HYPRN",
+  "description": "HYPERION is the governance token for Hyperion Protocol - the liquidation-free leverage protocol on Solana. Lock LSTs, mint hyTokens, and earn staking rewards without liquidation risk.",
+  "image": "https://hyperion-app-gray.vercel.app/hyperion-logo.png",
+  "external_url": "https://hyperion-app-gray.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "DeFi"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "Hyperion"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://hyperion-app-gray.vercel.app/hyperion-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}

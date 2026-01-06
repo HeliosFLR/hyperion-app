@@ -1,0 +1,49 @@
+node_modules/
+.svelte-kit/
+build/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+*.log
+npm-debug.log*
+.idea/
+.vscode/
+*.swp
+*.swo
+package-lock.json
+
+.vercel
+
+# Wallet secrets
+.wallets.json
+*.keypair
+*.secret
+.bundle-wallets/
+meteora-launch-config.json
+wallet-secrets.json
+deploy-authority.json
+mint-authority.json
+.phantom-import-keys.txt
+
+# Solana program build artifacts (keep source, exclude binaries)
+programs/*/target/
+*.so
+
+# Scripts (exclude all - deployment/admin only)
+scripts/
+
+# Programs source (exclude - keep on private repo)
+programs/
+
+# Rust build
+target/
+Cargo.lock
+
+# Windows reserved names
+nul
+NUL
+con
+CON
